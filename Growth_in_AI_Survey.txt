@@ -1,0 +1,170 @@
+
+Survey: Growth in AI Technologies
+
+Section 1: Awareness of AI
+1. How familiar are you with Artificial Intelligence (AI)?
+   - Not familiar
+   - Somewhat familiar
+   - Familiar
+   - Expert
+
+2. Have you taken any courses or training on AI technologies?
+   - Yes
+   - No
+
+3. Where do you usually learn about AI?
+   - Social media
+   - News and blogs
+   - Online courses
+   - Friends or classmates
+   - Other
+
+4. Do you think AI is relevant to your field of study?
+   - Yes
+   - No
+   - Not sure
+
+5. Which AI applications have you heard about?
+   - Chatbots (e.g., ChatGPT)
+   - Autonomous vehicles (e.g., Tesla)
+   - Facial recognition
+   - Virtual assistants (e.g., Alexa, Siri)
+   - AI in healthcare
+
+6. Do you believe AI is a necessary part of the future?
+   - Yes
+   - No
+   - Not sure
+
+Section 2: Opinions on AI Growth
+7. Do you think AI is growing too fast?
+   - Yes
+   - No
+   - Not sure
+
+8. Do you think AI will create more jobs or take away jobs?
+   - Create more jobs
+   - Take away jobs
+   - Both
+   - Not sure
+
+9. How significant is AI’s role in improving industries like education, healthcare, and finance?
+   - Not significant
+   - Slightly significant
+   - Moderately significant
+   - Very significant
+
+10. Do you think AI can outperform humans in most tasks?
+    - Yes, eventually
+    - No, humans will always lead
+    - Not sure
+
+11. How do you feel about the current pace of AI development?
+    - It’s too fast
+    - It’s appropriate
+    - It’s too slow
+
+12. Do you think AI should be more regulated?
+    - Yes
+    - No
+    - Not sure
+
+13. Do you believe AI can become smarter than humans one day?
+    - Yes
+    - No
+    - Not sure
+
+Section 3: AI in Daily Life
+14. Have you used AI tools in your daily life?
+    - Yes
+    - No
+
+15. If yes, which AI tools have you used the most?
+    - ChatGPT or similar chatbots
+    - Virtual assistants (e.g., Siri, Alexa)
+    - AI-powered apps (e.g., Grammarly, Google Translate)
+    - AI features in social media (e.g., recommendations)
+
+16. How often do you use AI-powered technologies?
+    - Daily
+    - Weekly
+    - Occasionally
+    - Never
+
+17. Do you trust the recommendations made by AI systems?
+    - Yes, always
+    - Sometimes
+    - Rarely
+    - Never
+
+18. Which AI-powered service do you find most beneficial?
+    - Personalized ads
+    - Virtual assistants
+    - Predictive text and grammar correction
+    - Image and video recognition
+
+Section 4: AI in Education
+19. Do you believe AI can improve learning experiences in the classroom?
+    - Yes
+    - No
+    - Not sure
+
+20. What AI features would you like to see in education?
+    - Personalized learning paths
+    - Automated grading
+    - Virtual tutors
+    - None of the above
+
+21. Have you ever used an AI-powered educational tool?
+    - Yes
+    - No
+
+22. Do you think AI can replace teachers in the future?
+    - Yes
+    - No
+    - Not sure
+
+Section 5: Ethical and Social Implications
+23. Do you think AI poses a threat to privacy?
+    - Yes
+    - No
+    - Not sure
+
+24. How concerned are you about bias in AI systems?
+    - Very concerned
+    - Somewhat concerned
+    - Not concerned
+    - Unaware of this issue
+
+25. Do you think AI can be harmful if not controlled?
+    - Yes
+    - No
+    - Not sure
+
+26. Should AI development prioritize ethical considerations?
+    - Yes
+    - No
+    - Not sure
+
+27. Do you believe AI can make unbiased decisions?
+    - Yes
+    - No
+    - Not sure
+
+28. Do you agree that AI can help solve major global challenges (e.g., climate change, healthcare)?
+    - Strongly agree
+    - Agree
+    - Disagree
+    - Strongly disagree
+
+Section 6: Future of AI
+29. Do you think AI will dominate most professions in the future?
+    - Yes
+    - No
+    - Not sure
+
+30. Are you optimistic about the future of AI?
+    - Very optimistic
+    - Somewhat optimistic
+    - Neutral
+    - Pessimistic
